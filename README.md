@@ -1,4 +1,4 @@
-# random_shit
+delete # random_shit
 A lot of different projects including:
 * AStar pathfinding
 * mazegeneration
